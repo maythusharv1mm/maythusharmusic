@@ -18,7 +18,7 @@ speedtest
 py-tgcalls==2.2.1
 pytube
 MukeshAPI
-ntgcalls>==2.0.1
+ntgcalls==1.3.4
 gitpython
 pykeyboard
 python-dotenv
